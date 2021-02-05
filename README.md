@@ -1,0 +1,2 @@
+# Code-Magic
+For CodeMagic
